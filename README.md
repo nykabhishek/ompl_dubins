@@ -10,4 +10,4 @@ A python script to generate paths in Dubins workspace with obstacles using diffe
 ## Dependencies ##
 Environment
 - `Ubuntu 14.04 or higher`
-- `[OMPL](https://ompl.kavrakilab.org/download.html)``
+- `[OMPL](https://ompl.kavrakilab.org/download.html)`
